@@ -1,7 +1,7 @@
 # Ui Lib
 
 ```lua
-local library = loadstring(game:HttpGet('https://raw.githubusercontent.com/HoyoGey/My-Lua-Project/main/UiLibs/GreenUi.lua'))()
+local library = loadstring(game:HttpGet('https://raw.githubusercontent.com/HoyoGey/CoconutGreen/main/Asset/Ui.lua'))()
 
 local Window = library:CreateWindow("Name", "Version", 10044538000)
 
